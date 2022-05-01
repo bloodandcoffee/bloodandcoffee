@@ -1,4 +1,4 @@
-<h3 align="center"><samp>Hello! こにちは! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://franktao.com">Frank Tao</a></b></samp></h3>
+<h3 align="center"><samp>Hello! こんにちは! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://franktao.com">Frank Tao</a></b></samp></h3>
 <p align="Center">
   <a href="https://github.com/kugelblitz2?tab=repositories&language=python" target="_blank"><img alt="Python" src="https://img.shields.io/badge/-Python-3572A5?style=flat&logo=Python&logoColor=white"></a>
   <a href="https://github.com/kugelblitz2?tab=repositories&language=javascript" target="_blank"><img alt="Javascript" src="https://img.shields.io/badge/-Javascript-f1e05a?style=flat&logo=Javascript&logoColor=white"></a>
