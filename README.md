@@ -17,8 +17,8 @@
   <summary> <samp>&#9776; Details</samp></summary>
   <br>
     <p align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=kugelblitz2&include_all_commits=true&show_icons=true&theme=tokyonight"></img><br>
-      <a href="https://github.com/kugelblitz2/kugelblitz2" target="_blank"><img src="https://img.shields.io/github/last-commit/kugelblitz2/kugelblitz2?label=profile%20updated&style=flat&color=green"></a>
+      <img src="https://github-readme-stats.vercel.app/api?username=bloodandcoffee&include_all_commits=true&show_icons=true&theme=tokyonight"></img><br>
+      <a href="https://github.com/bloodandcoffee/bloodandcoffee" target="_blank"><img src="https://img.shields.io/github/last-commit/bloodandcoffee/bloodandcoffee?label=profile%20updated&style=flat&color=green"></a>
     </p>
 </details>
 <br>
