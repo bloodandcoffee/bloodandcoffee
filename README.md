@@ -1,4 +1,4 @@
-<h3 align="center"><samp>Hello! こんにちは! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://franktao.com">Frank Tao</a></b></samp></h3>
+<h3 align="center"><samp>Hello! こんにちは! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://franktao.com">Frank</a></b></samp></h3>
 <p align="center"><br>
   <samp>
     「 Computer Science Student @ <b>University of Waterloo</b> 」<br>
