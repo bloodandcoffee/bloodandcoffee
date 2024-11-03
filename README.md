@@ -9,8 +9,8 @@
   <summary> <samp>Details</samp></summary>
   <br>
     <p align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=onyasumi&include_all_commits=true&show_icons=true&theme=tokyonight"></img><br>
-      <a href="https://github.com/onyasumi/onyasumi" target="_blank"><img src="https://img.shields.io/github/last-commit/onyasumi/onyasumi?label=profile%20updated&style=flat&color=green"></a>
+      <img src="https://github-readme-stats.vercel.app/api?username=fubuki4649&include_all_commits=true&show_icons=true&theme=tokyonight"></img><br>
+      <a href="https://github.com/fubuki4649/fubuki4649" target="_blank"><img src="https://img.shields.io/github/last-commit/fubuki4649/fubuki4649?label=profile%20updated&style=flat&color=green"></a>
     </p>
 </details>
 <br>
